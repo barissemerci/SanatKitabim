@@ -15,8 +15,15 @@ Açılan ekranda tablonun resmini, adını, çizen kişiyi ve yılı girebildiğ
 
 Burada "Select Image" yazan yazıya tıklandığında kullanıcıya galerisinden resim seçme şansı verir. Kullanıcı resim seçtikten sonra gerekli alanlar doldurup kaydetme butonuna basar.
 
-<p float="left">
 <img src="https://user-images.githubusercontent.com/68946715/183309240-190538e6-ed74-4717-b2f0-98e5c0a1c411.png" width="200" height="400">
+
+
+
+Kaydedilen tablolar ana sayfada liste hâlinde görülebilir. Ve üzerine tıklandığında detay sayfasına gidilebilir.
+
+
+<p float="left">
+<img src="https://user-images.githubusercontent.com/68946715/183309314-d7e9229b-a709-4fe0-95f3-cc20b7c21a6c.png" width="200" height="400">
 
 <img src="https://user-images.githubusercontent.com/68946715/183309243-5fdaaa27-258a-481d-a331-71ee51b62d1f.png" width="200" height="400">
 
@@ -25,12 +32,6 @@ Burada "Select Image" yazan yazıya tıklandığında kullanıcıya galerisinden
 <img src="https://user-images.githubusercontent.com/68946715/183309245-31c17ce8-a1be-43d8-8ccf-6a2bc63d25e3.png" width="200" height="400">
 
 </p>
-
-Kaydedilen tablolar ana sayfada liste hâlinde görülebilir. Ve üzerine tıklandığında detay sayfasına gidilebilir.
-
-<img src="https://user-images.githubusercontent.com/68946715/183309314-d7e9229b-a709-4fe0-95f3-cc20b7c21a6c.png" width="200" height="400">
-
-
 
 
 
